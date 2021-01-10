@@ -8,7 +8,7 @@ Repository with all (or almost) my discoveries to do typical physics laboratory 
     * square-fit
     * exponential-fit
     * ...
-* [histogram](https://github.com/lorenzomarini96/model/blob/main/README.md#creating-a-module)
+* [histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
 
 * [Unittest](https://github.com/lorenzomarini96/model/blob/main/README.md#unittest)
     * [Code structure for unittest](https://github.com/lorenzomarini96/model/blob/main/README.md#code-structure-for-unittest)
