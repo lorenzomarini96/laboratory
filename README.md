@@ -1,6 +1,8 @@
 # laboratory
 Repository with all (or almost) my discoveries to do typical physics laboratory data analysis.
 
+$e^{i\pi} = 1$
+
 ## Table of Contents
 * [read_data](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/read_data)
 * [fit](https://github.com/lorenzomarini96/model/blob/main/README.md#creation-of-basic-folders)
