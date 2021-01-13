@@ -1,7 +1,6 @@
 # laboratory
 Repository with all (or almost) my discoveries to do typical physics laboratory data analysis.
 
-$e^{i\pi} = 1$
 
 ## Table of Contents
 * [read_data](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/read_data)
@@ -11,6 +10,8 @@ $e^{i\pi} = 1$
     * exponential-fit
     * ...
 * [histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
+
+* [Latex model](https://github.com/lorenzomarini96/laboratory/tree/main/latex)
 
 * [Unittest](https://github.com/lorenzomarini96/model/blob/main/README.md#unittest)
     * [Code structure for unittest](https://github.com/lorenzomarini96/model/blob/main/README.md#code-structure-for-unittest)
