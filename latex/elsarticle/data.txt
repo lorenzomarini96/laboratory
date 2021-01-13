@@ -1,0 +1,17 @@
+# Experimental data
+
+time [s]  space[m]
+1.0        2.0
+1.0        2.0
+1.0        2.0
+1.0        2.0
+1.0        2.0
+1.0        2.0
+1.0        2.0
+1.0        2.0
+
+# I dati sono stati raccolti il giorno xx/xx/xx. 
+# Hanno partecipato al progetto:
+- Tizio
+- Caio
+- Sempronio.
