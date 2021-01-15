@@ -145,7 +145,7 @@ def least_squares(x_data, y_data, dy_data):
     ax.plot([], [], color='white', marker='.',linestyle='None', label=r'$\chi^2/\nu$   $\>$ %12.2f/%.i'   %(chi2_lsq,dof))
     # Stampo il simbolo dell'elemento sopra ogni valore nel plot 
     for i in range(len(y_data)):
-        plt.text(y_data[i], x_data[i], y_data[i], fontsize=15)
+        plt.text(x_data[i], y_data[i]+2.0, round(y_data[i],2), fontsize=10)
     # Creazione della legenda
     ax.legend(frameon        = False,
               fancybox       = True, 
@@ -156,7 +156,7 @@ def least_squares(x_data, y_data, dy_data):
               numpoints      = 1)
 
     # Salvataggio del grafico in formato .pdf
-    #plt.savefig('lsq__fit.pdf', bbox_inches='tight')
+    plt.savefig('lsq__fit.pdf', bbox_inches='tight')
 
     plt.show()
 
