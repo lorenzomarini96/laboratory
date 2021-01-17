@@ -1,16 +1,21 @@
 # Fit
 
 ## Link
-[Numpy - Documentation][https://numpy.org/doc/stable/]
-[scipy][https://www.scipy.org]
+
+[Numpy - Documentation](https://numpy.org/doc/stable/)
+
+[scipy](https://www.scipy.org)
+
 ## Examples
 
 ### Least Square algorithm
-#### Link
-[curve_fit][[curve_fit][https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html]
-]
 
- ```
+#### Link
+
+[curve_fit](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
+
+
+ ```python
  # Import packages
 import numpy as np
 from scipy.optimize import curve_fit
@@ -77,7 +82,7 @@ ax.errorbar(x_data,  y_data,
 x_fit = np.linspace(min(x_data),max(x_data),100)
 
 # Plot fit 
-plt.plot(x_fit, f_curve_fit(x, *popt), '--', color="green", label=r'LSQ')
+plt.plot(x_fit, f_curve_fit(x_fit, *popt), '--', color="green", label=r'LSQ')
 ax.set_title(r'Least Squares',fontsize=18)
 ax.set_xlabel(r'$x$ [$x$]', fontsize=18)
 ax.set_ylabel(r'$y$ [$y$]', fontsize=18)
