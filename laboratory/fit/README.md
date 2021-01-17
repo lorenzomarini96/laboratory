@@ -99,3 +99,5 @@ plt.savefig('lsq__fit.pdf', bbox_inches='tight')
 plt.show()
 
 ```
+
+<img src="https://github.com/lorenzomarini96/laboratory/files/5826894/lsq__fit.pdf" width="200" /> 
