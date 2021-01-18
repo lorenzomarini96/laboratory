@@ -21,3 +21,7 @@ Source: [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blo
 
 - [x] Create new readme file for histogram section.
 - [ ] make cleaver [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_top_window1.py), for examples: mask insted for loop, add "f-string", and make better the way to print the best fit parameters.
+- [ ] Add **FWHM: Signal_Peak_over_Background**
+- [ ] Add **Simple histogram (seaborn theme)**
+- [ ] Add **Signal_Peak_over_Background**
+- [ ] Add **BGO: double peack with different fit model**
