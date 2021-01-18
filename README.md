@@ -13,6 +13,7 @@ Repository with all (or almost) my discoveries to do typical physics laboratory 
     - [ODR vs LSQ algorithm](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#odr-vs-lsq-algorithm)
 
 * [histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
+    - [Two windows on same plot](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram#two-windows-on-same-plot)
 
 * [Latex model](https://github.com/lorenzomarini96/laboratory/tree/main/latex)
     - [beamer](https://github.com/lorenzomarini96/laboratory/tree/main/latex/beamer)
