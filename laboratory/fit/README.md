@@ -100,4 +100,4 @@ plt.show()
 
 ```
 
-<img src="https://user-images.githubusercontent.com/55988954/104958758-e41b5c00-59d0-11eb-8ae3-4ee90c472a83.png" width="300" /> 
+<img src="https://user-images.githubusercontent.com/55988954/104958758-e41b5c00-59d0-11eb-8ae3-4ee90c472a83.png" width="600" /> 
