@@ -10,18 +10,18 @@
 
 ## Examples
 
-### Scatter plot + fit + values on points
-
-Source: [least_squares_text_values.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/lsq/least_squares_text_values.py)
-
-<img src="https://user-images.githubusercontent.com/55988954/104961341-6a866c80-59d6-11eb-87fd-3c6c3db29604.png" width="600" /> 
-
-
 ### Scatter plot + fit 
 
 Source: [least_squares_1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/lsq/least_squares_1.py)
 
 <img src="https://user-images.githubusercontent.com/55988954/104958758-e41b5c00-59d0-11eb-8ae3-4ee90c472a83.png" width="600" /> 
+
+
+### Scatter plot + fit + values on points
+
+Source: [least_squares_text_values.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/lsq/least_squares_text_values.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/104961341-6a866c80-59d6-11eb-87fd-3c6c3db29604.png" width="600" /> 
 
 
 ### Scatter plot + fit 
@@ -43,3 +43,5 @@ Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/lab
 Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/x_rays/codes/xray.ipynb)
 
 <img src="https://user-images.githubusercontent.com/55988954/104960788-35c5e580-59d5-11eb-9d17-217eb5f66dc4.png" width="600" /> 
+
+
