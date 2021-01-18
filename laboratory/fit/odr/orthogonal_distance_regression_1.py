@@ -166,7 +166,7 @@ def orthogonal_distance_regression(x_data, y_data, dx_data, dy_data):
               #bbox_to_anchor = (1, 0.5),
               prop           = {"size":17},
               numpoints      = 1)
-    plt.savefig('odr__fit.pdf', bbox_inches='tight')
+    plt.savefig('figures/odr__fit.png', bbox_inches='tight')
     plt.show()
 
 
@@ -290,7 +290,7 @@ def least_squares(x_data, y_data, dx_data, dy_data):
               numpoints      = 1)
 
     # Salvataggio del grafico in formato .pdf
-    plt.savefig('lsq__fit.pdf', bbox_inches='tight')
+    plt.savefig('figures/lsq__fit.png', bbox_inches='tight')
 
     plt.show()
 
@@ -502,7 +502,7 @@ def odr_vs_lsq(x_data, y_data, dx_data, dy_data):
               #bbox_to_anchor = (1, 0.5),
               prop           = {"size":17},
               numpoints      = 1)
-    plt.savefig('odr_vs_lqs_fit.pdf', bbox_inches='tight')
+    plt.savefig('figures/odr_vs_lqs_fit.png', bbox_inches='tight')
 
     plt.show()
 
