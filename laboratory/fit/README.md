@@ -94,10 +94,10 @@ ax.plot([], [], color='white', marker='.',linestyle='None', label=r'$\chi^2/\nu$
 # Creazione della legenda
 ax.legend(frameon = False,fancybox = True, hadow = False,prop = {"size":17},numpoints = 1)
 # Salvataggio del grafico in formato .pdf
-plt.savefig('figures/lsq__fit.pdf', bbox_inches='tight')
+plt.savefig('figures/lsq__fit.png', bbox_inches='tight')
 
 plt.show()
 
 ```
 
-<img src="https://github.com/lorenzomarini96/laboratory/files/5832168/lsq__fit.pdf" width="300" /> 
+<img src="https://user-images.githubusercontent.com/55988954/104958758-e41b5c00-59d0-11eb-8ae3-4ee90c472a83.png" width="300" /> 
