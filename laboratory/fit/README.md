@@ -100,4 +100,4 @@ plt.show()
 
 ```
 
-<img src="https://github.com/lorenzomarini96/laboratory/files/5826908/lsq__fit.pdf" width="300" /> 
+<img src="https://github.com/lorenzomarini96/laboratory/files/5832168/lsq__fit.pdf" width="300" /> 
