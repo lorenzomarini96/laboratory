@@ -55,4 +55,4 @@ Source: [orthogonal_distance_regression_1.py ](https://github.com/lorenzomarini9
 
 Source: [liquid_drop_model.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/binding_nuclear_energy/codes/liquid_drop_model.py)
 
-<img src="https://user-images.githubusercontent.com/55988954/104965028-0e274b00-59de-11eb-9136-f323ea6dd337.png" width="600" /> 
+<img src="https://user-images.githubusercontent.com/55988954/104965304-bfc67c00-59de-11eb-97c9-f7fbd650ea25.png" width="600" /> 
