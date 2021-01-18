@@ -8,7 +8,14 @@
 
 [curve_fit](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html)
 
-## Least Square algorithm - Examples
+## Examples
+
+### Scatter plot + fit + values on points
+
+Source: [least_squares_text_values.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/lsq/least_squares_text_values.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/104961341-6a866c80-59d6-11eb-87fd-3c6c3db29604.png" width="600" /> 
+
 
 ### Scatter plot + fit 
 
@@ -24,9 +31,15 @@ Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/lab
 <img src="https://user-images.githubusercontent.com/55988954/104960415-740ed500-59d4-11eb-9511-7ec178c256b1.png" width="600" /> 
 
 
-### Multiple catter plot + fit 
+### Multiple scatter plot + fit 
 
 Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/x_rays/codes/xray.ipynb)
 
 <img src="https://user-images.githubusercontent.com/55988954/104960788-35c5e580-59d5-11eb-9d17-217eb5f66dc4.png" width="600" /> 
 
+
+### Scatter plot + fit + residual plot
+
+Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/x_rays/codes/xray.ipynb)
+
+<img src="https://user-images.githubusercontent.com/55988954/104960788-35c5e580-59d5-11eb-9d17-217eb5f66dc4.png" width="600" /> 
