@@ -17,3 +17,7 @@ Source: [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blo
 <img src="https://user-images.githubusercontent.com/55988954/104966973-7a0bb280-59e2-11eb-8d77-61cdc5440aab.png" width="600" /> 
 
 
+# TODO
+
+- [x] Create new readme file for histogram section.
+- [] make cleaver [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_top_window1.py), for examples: mask insted for loop, add "f-string", and make better the way to print the best fit parameters.
