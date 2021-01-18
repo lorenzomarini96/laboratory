@@ -9,6 +9,8 @@ Repository with all (or almost) my discoveries to do typical physics laboratory 
     - [Scatter plot + fit](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#scatter-plot--fit)
     - [Scatter plot + fit + values on points](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#scatter-plot--fit--values-on-points)
     - [Multiple scatter plot + fit](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#multiple-scatter-plot--fit)
+    - [ODR algorithm](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#odr-algorithm)
+    - [ODR vs LSQ algorithm](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#odr-vs-lsq-algorithm)
 
 * [histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
 
