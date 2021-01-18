@@ -42,7 +42,7 @@ B_over_A_exp = np.array([2.827, 2.57267, 7.074, 5.33233,
 sigma_B_over_A = 0.03*B_over_A_exp
 
 
-fig = plt.figure(1, figsize = (15,6))
+fig = plt.figure(1, figsize = (10,6))
 plt.rc('font', size=16)
 ax1 = fig.add_axes([0,0,1,1])
 ax1.errorbar(A, B_over_A_exp, yerr=sigma_B_over_A,
