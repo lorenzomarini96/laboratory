@@ -20,4 +20,4 @@ Source: [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blo
 # TODO
 
 - [x] Create new readme file for histogram section.
-- [] make cleaver [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_top_window1.py), for examples: mask insted for loop, add "f-string", and make better the way to print the best fit parameters.
+- [ ] make cleaver [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_top_window1.py), for examples: mask insted for loop, add "f-string", and make better the way to print the best fit parameters.
