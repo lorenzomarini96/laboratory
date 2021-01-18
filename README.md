@@ -13,3 +13,5 @@ Repository with all (or almost) my discoveries to do typical physics laboratory 
 * [histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
 
 * [Latex model](https://github.com/lorenzomarini96/laboratory/tree/main/latex)
+    - [beamer](https://github.com/lorenzomarini96/laboratory/tree/main/latex/beamer)
+    - [elsarticle](https://github.com/lorenzomarini96/laboratory/tree/main/latex/elsarticle)
