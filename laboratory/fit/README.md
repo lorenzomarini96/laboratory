@@ -38,10 +38,18 @@ Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/lab
 <img src="https://user-images.githubusercontent.com/55988954/104960788-35c5e580-59d5-11eb-9d17-217eb5f66dc4.png" width="600" /> 
 
 
+### ODR algorithm
+
+Source: [orthogonal_distance_regression_1.py ](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/odr/orthogonal_distance_regression_1.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/104962706-45dfc400-59d9-11eb-934d-3fe2bd9fe583.png" width="600" /> 
+
+### ODR vs LSQ algorithm
+
+Source: [orthogonal_distance_regression_1.py ](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/fit/odr/orthogonal_distance_regression_1.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/104962849-97884e80-59d9-11eb-8ebb-c43af791ac1a.png" width="600" /> 
+
+
 ### Scatter plot + fit + residual plot
-
-Source: [xray.ipynb](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/x_rays/codes/xray.ipynb)
-
-<img src="https://user-images.githubusercontent.com/55988954/104960788-35c5e580-59d5-11eb-9d17-217eb5f66dc4.png" width="600" /> 
-
 
