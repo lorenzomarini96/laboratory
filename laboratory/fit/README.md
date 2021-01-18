@@ -53,3 +53,6 @@ Source: [orthogonal_distance_regression_1.py ](https://github.com/lorenzomarini9
 
 ### Scatter plot + fit + residual plot
 
+Source: [liquid_drop_model.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/binding_nuclear_energy/codes/liquid_drop_model.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/104965028-0e274b00-59de-11eb-9136-f323ea6dd337.png" width="600" /> 
