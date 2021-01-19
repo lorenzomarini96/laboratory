@@ -63,7 +63,7 @@ print(f"R    {R:12.5f} +/- {dR:.5}")
 print("==============================")
 
 # Plot the fitting function.
-fig = plt.figure(1, figsize=(10,8))
+fig = plt.figure(1, figsize=(10,6))
 ax1 = fig.add_axes([0,0,1,1])
 ax1.errorbar(bin_centers, data_entries, yerr=np.sqrt(data_entries),
              fmt='.', 
