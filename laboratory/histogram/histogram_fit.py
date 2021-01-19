@@ -109,5 +109,5 @@ ax2.errorbar(bin_centers, r, sigma_r, linestyle = '', color = 'black', marker = 
 ax2.set_xlabel(r'$x$ [x]',        fontsize=14)
 ax2.set_ylabel(r'$Residuals$',fontsize=14)
 ax2.minorticks_on()
-plt.savefig('figures/Signal_Peak_over_Background1.pdf', format='pdf',bbox_inches="tight", dpi=100)
+plt.savefig('figures/Signal_Peak_over_Background1.png', format='png',bbox_inches="tight", dpi=100)
 #plt.show()
