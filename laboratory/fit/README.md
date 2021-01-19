@@ -56,3 +56,11 @@ Source: [orthogonal_distance_regression_1.py ](https://github.com/lorenzomarini9
 Source: [liquid_drop_model.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/examples/binding_nuclear_energy/codes/liquid_drop_model.py)
 
 <img src="https://user-images.githubusercontent.com/55988954/104965304-bfc67c00-59de-11eb-97c9-f7fbd650ea25.png" width="600" /> 
+
+
+### 3D plot
+
+Source: [neutron_path_simulation.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/montecarlo_methods/neutron_path_simulation.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/105103008-194aab80-5ab0-11eb-8ba6-ccd614ae3e68.png" width="600" /> 
+
