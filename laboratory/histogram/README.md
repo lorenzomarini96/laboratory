@@ -10,6 +10,13 @@
 
 ## Examples
 
+### Fit + Residual plot
+
+Source: [histogram_fit.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histogram_fit.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/105095717-501bc400-5aa6-11eb-8b10-242d160d2bd8.png" width="600" /> 
+
+
 ### Two windows on same plot
 
 Source: [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_top_window1.py)
