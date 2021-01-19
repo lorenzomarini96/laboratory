@@ -10,6 +10,23 @@
 
 ## Examples
 
+
+### Simple histogram
+
+Source: [histo_1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histo_1.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/105099892-b1469600-5aac-11eb-953b-4c3e40ae49e2.png" width="600" /> 
+
+
+
+### Multi subplot histograms
+
+Source: [multi_histo_1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/multi_histo_1.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/105099915-be638500-5aac-11eb-88fc-9a7d1df94738.png" width="600" /> 
+
+
+
 ### Fit + Residual plot
 
 Source: [histogram_fit.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/histogram_fit.py)
