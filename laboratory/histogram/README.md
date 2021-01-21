@@ -40,6 +40,12 @@ Source: [histo_top_window1.py](https://github.com/lorenzomarini96/laboratory/blo
 
 <img src="https://user-images.githubusercontent.com/55988954/104966973-7a0bb280-59e2-11eb-8d77-61cdc5440aab.png" width="600" /> 
 
+### Bar histogram
+
+Source: [bar_histo1.py](https://github.com/lorenzomarini96/laboratory/blob/main/laboratory/histogram/bar_histo1.py)
+
+<img src="https://user-images.githubusercontent.com/55988954/105413471-6eb0c500-5c36-11eb-9515-1769b03b3963.png" width="600" /> 
+
 
 # TODO
 
