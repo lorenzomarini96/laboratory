@@ -1,4 +1,6 @@
 """Compute the occurence of a given list of value. Plot a bar histrogram in a correct (I hope) way."""
+import seaborn as sns
+sns.set_theme(style="darkgrid")
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -40,7 +42,7 @@ plt.xlabel("Voto esame")
 plt.ylabel("Occorrenze")
 plt.title("Voti esame: maschi vs femmine")
 
-plt.savefig("voti_esame.png")
+plt.savefig("figures/voti_esame.png")
 plt.show()
 
 
