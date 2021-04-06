@@ -13,7 +13,7 @@ Repository with all (or almost) my discoveries to do typical physics laboratory 
     - [ODR vs LSQ algorithm](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/fit#odr-vs-lsq-algorithm)
 
 * [Histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram)
-    - [Bar Histogram]
+    - [Bar Histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/bar_graph#examples)
     - [Simple Histogram](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram#simple-histogram)
     - [Multi subplot histograms](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram#multi-subplot-histograms)
     - [Two windows on same plot](https://github.com/lorenzomarini96/laboratory/tree/main/laboratory/histogram#two-windows-on-same-plot)
